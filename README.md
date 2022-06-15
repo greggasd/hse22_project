@@ -1,5 +1,4 @@
 # Project 2022. Антонников Григорий
-## Ссылка на колаб:
 
 ## Таблица с данными по таблица по 5 выбранным геномам
 
@@ -10,6 +9,12 @@
 | bordetella_parapertussis  | 4523 | 4392749   |	92%	   |  1398774 |   4773835	 |  141468 |  
 | bordetella_hinzii         | 4483 | 4456320	 | 92.7%   |	1135128 |   4809490  |	115337 | 
 | bordetella_pertussis      | 3952 | 3762112	 | 92%	   | 1126186  |   4088701	 | 113916  |
+
+## Ссылка на колаб:
+
+```
+https://colab.research.google.com/drive/1HPrXrST4ZbGKGwSZ9FeY1QIFA9Pi8Osy?usp=sharing
+```
 
 ## Гистограммы ZH-Score распредления
 
@@ -39,7 +44,7 @@
 ## Множественное белковое выравнивание 
 ```
 В репозитории /data/clusters
-+ https://github.com/greggasd/hse22_project/tree/main/data/clusters
+https://github.com/greggasd/hse22_project/tree/main/data/clusters
 ```
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
