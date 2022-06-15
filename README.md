@@ -26,12 +26,13 @@ https://colab.research.google.com/drive/1HPrXrST4ZbGKGwSZ9FeY1QIFA9Pi8Osy?usp=sh
 ![55](https://user-images.githubusercontent.com/93208971/173881893-6c6ec4b4-c788-48a9-a5dc-9f6fbf033143.png)
 
 ## Предсказанные Z-DNA
+![bordetella_bronchialis](https://user-images.githubusercontent.com/93208971/173903586-ea073f19-4024-4f10-b943-536a491ce573.png)
+![bordetella_bronchiseptica](https://user-images.githubusercontent.com/93208971/173903592-5b533e9b-fd28-4b99-8c50-6c7beb4be916.png)
+![bordetella_hinzii](https://user-images.githubusercontent.com/93208971/173903596-2eebf05e-f4a9-4db6-bde7-6f39112862dd.png)
+![bordetella_parapertussis](https://user-images.githubusercontent.com/93208971/173903597-4c3b1cee-27df-4c31-af74-17546c6d8f76.png)
+![bordetella_pertussis](https://user-images.githubusercontent.com/93208971/173903599-92dc72d0-4b77-447f-bf22-ec00a929653b.png)
 
-![1](https://user-images.githubusercontent.com/93208971/173882584-13a35240-b52f-49f2-8122-d6f298e0ccc8.png)
-![2](https://user-images.githubusercontent.com/93208971/173882589-b9e7d2b3-6c5c-4aa3-ba4a-4c6910250c7d.png)
-![3](https://user-images.githubusercontent.com/93208971/173882594-9ed4fc00-3f74-490a-a315-930e1c06e7ce.png)
-![4](https://user-images.githubusercontent.com/93208971/173882598-2411337e-a7ec-4e94-9b9b-8c008175617b.png)
-![5](https://user-images.githubusercontent.com/93208971/173882603-77d21034-201a-4210-9950-973c5138268c.png)
+
 
 ## Информация по полученным кластерам
 ![Распределение генов в кластере](https://user-images.githubusercontent.com/93208971/173884244-dce260bc-7357-426e-a5dd-c71270f82560.png)
