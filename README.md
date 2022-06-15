@@ -35,14 +35,24 @@
 ![Распространение видов в кластере](https://user-images.githubusercontent.com/93208971/173884657-9669496f-eac1-4bf4-9098-bb4acb88e817.png)
 
 
-## Лучшие 10 кластеров по mean ZH-Score
+## Определение кластеров гомологов-белков
 
 ![image](https://user-images.githubusercontent.com/93208971/173889353-d0f33f76-450f-46e4-aeca-50ae016e4e5d.png)
 
 ## Множественное белковое выравнивание 
 
-
+В репозитории /data/clusters 
 
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
+![cluster1](https://user-images.githubusercontent.com/93208971/173895145-ab7f1c01-fe2d-499f-86fc-d3ad02df2a13.png)
+![cluster2](https://user-images.githubusercontent.com/93208971/173895148-7b021088-519a-403d-b12a-e128fb55a6fb.png)
+![cluster3](https://user-images.githubusercontent.com/93208971/173895152-4ce5a651-9604-4672-a25e-2eab360038ec.png)
+![cluster4](https://user-images.githubusercontent.com/93208971/173895155-553b4875-4525-4a68-b9d3-dd7d61f62b25.png)
+![cluster5](https://user-images.githubusercontent.com/93208971/173895158-201599f5-ee09-41f4-a844-dc96a9c38e0b.png)
+![cluster6](https://user-images.githubusercontent.com/93208971/173895191-0c13e90f-63c2-4775-ba35-134475a59189.png)
+![cluster7](https://user-images.githubusercontent.com/93208971/173895200-23d0f076-18f9-4576-9b36-ca6258f5d6ff.png)
+![cluster8](https://user-images.githubusercontent.com/93208971/173895204-771ff0a1-7646-4af4-8798-985c98917373.png)
+![cluster9](https://user-images.githubusercontent.com/93208971/173895207-0a22a28e-8667-4af2-9dc3-cb3935e61bde.png)
+![cluster10](https://user-images.githubusercontent.com/93208971/173895210-28cc3fed-2cb3-4d2b-b219-92776ef5c77f.png)
 
