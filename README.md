@@ -43,10 +43,10 @@ https://colab.research.google.com/drive/1HPrXrST4ZbGKGwSZ9FeY1QIFA9Pi8Osy?usp=sh
 ![image](https://user-images.githubusercontent.com/93208971/173889353-d0f33f76-450f-46e4-aeca-50ae016e4e5d.png)
 
 ## Множественное белковое выравнивание 
-```
+
 В репозитории /data/clusters
-https://github.com/greggasd/hse22_project/tree/main/data/clusters
-```
+
+
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
 ![cluster1](https://user-images.githubusercontent.com/93208971/173895145-ab7f1c01-fe2d-499f-86fc-d3ad02df2a13.png)
