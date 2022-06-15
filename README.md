@@ -19,9 +19,6 @@
 ![44](https://user-images.githubusercontent.com/93208971/173881889-203d815c-de8f-4da3-a4b5-8a4d69f99ddf.png)
 ![55](https://user-images.githubusercontent.com/93208971/173881893-6c6ec4b4-c788-48a9-a5dc-9f6fbf033143.png)
 
-## Статистика распределения Z-DNA
-
-
 ## Предсказанные Z-DNA
 
 ![1](https://user-images.githubusercontent.com/93208971/173882584-13a35240-b52f-49f2-8122-d6f298e0ccc8.png)
@@ -40,9 +37,10 @@
 ![image](https://user-images.githubusercontent.com/93208971/173889353-d0f33f76-450f-46e4-aeca-50ae016e4e5d.png)
 
 ## Множественное белковое выравнивание 
-
-В репозитории /data/clusters 
-
+```
+В репозитории /data/clusters
++ https://github.com/greggasd/hse22_project/tree/main/data/clusters
+```
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
 ![cluster1](https://user-images.githubusercontent.com/93208971/173895145-ab7f1c01-fe2d-499f-86fc-d3ad02df2a13.png)
